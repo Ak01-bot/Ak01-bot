@@ -36,6 +36,6 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student and aspi
 
 ## 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/akash-chorotiya-a03678277)
-- [Portfolio](https://yourportfolio.com)
+- [Portfolio](https://ak01-bot.github.io/Portfolio/)
 
 Feel free to explore my repositories and reach out for any collaboration or inquiries!
